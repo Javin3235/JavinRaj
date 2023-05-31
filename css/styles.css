@@ -1,0 +1,165 @@
+
+
+/*----------------------element selectors-----------------------*/
+
+body{
+color:#40514E;
+margin:0px;
+font-family:verdana,sans-serif;
+text-align:center;
+}
+
+h1{
+font-family:Amita, cursive;
+font-size:400%;
+color:#66BFBF;
+width:40%;
+margin:50px auto 0 auto ;
+line-height:2;
+}
+
+h2{
+margin:0 auto auto auto ;
+font-family:roboto, sans-serif;
+color:#66BFBF;
+font-size:2.5rem;
+font-weight:normal;
+}
+
+h3{
+font-family:roboto, sans-serif;
+color:#11999e;
+font-weight:500;
+}
+
+a{
+color:#11999e;
+}
+
+hr{
+width:5%;
+border-style:none;
+border-top-style:dotted;
+border-width:10px;
+color:#EAF6F6;
+}
+
+
+
+
+/*-----------------------class selectors-----------------------------*/
+
+.top-div{
+background-color:#EAF6F6;
+position:relative;
+padding-top:100px;
+}
+
+.middle-div{
+padding-top:100px;
+}
+
+.btm-div{
+background-color:#66BFBF;
+padding: 40px;
+}
+
+.mnt{
+width:70%;
+}
+
+.btm-cld{
+position:absolute;
+left:250px;
+bottom:450px;
+}
+
+.top-cld{
+position:absolute;
+right:300px;
+top:50px;
+}
+
+
+.pro{
+text-decoration:underline;
+}
+
+.contact-btn{
+ background: #11cdde;
+  background-image: -webkit-linear-gradient(top, #11cdde, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdde, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdde, #11999e);
+  background-image: -o-linear-gradient(top, #11cdde, #11999e);
+  background-image: linear-gradient(to bottom, #11cdde, #11999e);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+
+.contact-btn:hover{
+background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;;
+}
+
+
+
+.hello{
+font-family:roboto, sans-serif;
+color:#66BFBF;
+font-size:300%;
+font-weight:bold;}
+
+.contact-me{
+margin-bottom: 30px;
+}
+
+.footer-link{
+margin: 0 10px;
+text-decoration: none;
+}
+
+.footer-link:hover{
+color:#EAF6F6;
+}
+
+.p{
+color:#EAF6F6;
+}
+
+.skill-row{
+width:50%;
+margin:0px auto 0px auto;
+text-align:left;
+line-height:2;
+padding:30px;
+}
+
+
+.web-img{
+width:25%;
+float:left;
+margin-right:30px;
+
+}
+
+.sci-fi_img{
+width:25%;
+float:right;
+margin-left:30px;
+}
+
+
+
+/*----------------------id selectors---------------------------*/
